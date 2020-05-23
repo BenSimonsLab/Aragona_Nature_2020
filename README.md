@@ -1,7 +1,7 @@
 # Aragona_Nature_2020
 The following codes were used for clonal analysis in Aragona et al. (Nature, 2020).
 
-Fortran codes used in modeling analysis of clonal fate data
+Fortran codes used in modeling analysis of clonal fate data.
 
 Analysis of ctrl system for one progenitor model: ctrl_1prog.f
 Analysis of ctrl system for two progenitor model: ctrl_2prog.f
